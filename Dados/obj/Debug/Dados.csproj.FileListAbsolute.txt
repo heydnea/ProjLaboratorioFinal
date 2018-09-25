@@ -1,0 +1,12 @@
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\Dados.dll.config
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\Dados.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\Dados.pdb
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\EntityFramework.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\EntityFramework.xml
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\obj\Debug\Dados.csproj.CopyComplete
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\obj\Debug\Dados.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Dados\obj\Debug\Dados.pdb

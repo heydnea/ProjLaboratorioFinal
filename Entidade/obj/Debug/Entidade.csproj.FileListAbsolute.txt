@@ -1,0 +1,5 @@
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Entidade\bin\Debug\Entidade.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Entidade\bin\Debug\Entidade.pdb
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Entidade\obj\Debug\Entidade.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Entidade\obj\Debug\Entidade.pdb

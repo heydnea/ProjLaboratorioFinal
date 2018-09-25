@@ -1,0 +1,5 @@
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Model\bin\Debug\Model.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Model\bin\Debug\Model.pdb
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Model\obj\Debug\Model.dll
+C:\Users\Selbetti\source\repos\ProjLaboratorioFinal\Model\obj\Debug\Model.pdb
